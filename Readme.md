@@ -1,10 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [CustomDialogForm.ascx](./CS/CustomDialogForm.ascx) (VB: [CustomDialogForm.ascx.vb](./VB/CustomDialogForm.ascx.vb))
+* [CustomDialogForm.ascx](./CS/CustomDialogForm.ascx) (VB: [CustomDialogForm.ascx](./VB/CustomDialogForm.ascx))
 * [CustomDialogForm.ascx.cs](./CS/CustomDialogForm.ascx.cs) (VB: [CustomDialogForm.ascx.vb](./VB/CustomDialogForm.ascx.vb))
 * [CustomScript.js](./CS/CustomScript.js) (VB: [CustomScript.js](./VB/CustomScript.js))
-* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))**
+* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))**
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxHtmlEditor - How to create a custom dialog to support different ordered list formats 
